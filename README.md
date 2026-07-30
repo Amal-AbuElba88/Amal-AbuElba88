@@ -1,163 +1,126 @@
-<h1 align="center">Hi 👋, I'm Amal Abu Elba</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst • AI Developer • ASP.NET Core Developer
-</h3>
+# Hi there 👋 I'm Amal Abu Elba
 
-<p align="center">
-Helping organizations transform data into smarter decisions through Data Analytics, Artificial Intelligence, and Software Development.
-</p>
+### Data Analyst | AI Developer | ASP.NET Core Developer
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Turning+Data+into+Actionable+Insights;Building+AI-Powered+Solutions;Creating+Interactive+Dashboards;Developing+Scalable+Web+Applications" />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<p>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aabuolba@smail.ucas.edu.ps">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Amal-AbuElba88">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:aabuolba@smail.ucas.edu.ps">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Amal-AbuElba88&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-</p>
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm a **Data Analyst** and **AI Developer** passionate about turning raw data into meaningful insights and intelligent digital solutions.
+I am **Amal Abu Elba**, a **Data Science & Artificial Intelligence student** with a diploma in **Software Development & Databases**.
 
-Currently pursuing a Bachelor's degree in **Data Science & Artificial Intelligence**, while continuously building practical software and AI projects.
+I help businesses transform raw data into valuable insights through data analysis, interactive dashboards, and AI-powered solutions.
 
-I enjoy combining **Data Analytics**, **Machine Learning**, **Business Intelligence**, **Database Engineering**, and **Software Development** to solve real-world problems and help organizations make smarter, data-driven decisions.
+Alongside data analytics, I develop scalable web applications using **ASP.NET Core**, allowing organizations to convert insights into practical systems that improve efficiency and decision-making.
 
-I'm always looking for opportunities to collaborate on impactful projects where data and technology create measurable value.
-
----
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
-
-# 🚀 Featured Projects
-
-### 🧠 AI Currency Reader for the Blind
-🏆 Grand Prize Winner at the Palestine Science Fair.
-
-Developed an AI-powered application capable of recognizing banknotes and providing audio feedback for visually impaired users.
+I enjoy solving real-world problems through technology and continuously improving my skills in Data Science, Machine Learning, and Software Engineering.
 
 ---
 
-### 📊 Hotel Booking Demand Analysis
+# 🚀 What I'm Working On
 
-Performed data cleaning, exploratory data analysis, visualization, and built interactive dashboards using Python and Power BI.
-
----
-
-### 🌍 World Happiness Dashboard
-
-Analyzed global happiness datasets (2014–2018) and designed interactive dashboards to identify key development indicators.
-
----
-
-### 🦠 COVID-19 Data Analysis
-
-Explored pandemic datasets using Python and Power BI to visualize trends and generate meaningful insights.
+- 📊 Data Analytics Projects
+- 🤖 Machine Learning Applications
+- 🌐 ASP.NET Core Web Applications
+- 📈 Power BI Dashboards
+- 🗄 SQL Server Database Design
+- 📚 University Educational Platform (ASP.NET Core)
 
 ---
 
-### 🛒 E-Commerce Management System
+# 💡 Featured Projects
 
-Developed a complete ASP.NET Core web application including authentication, product management, reporting, and SQL Server integration.
+### 🏆 AI Currency Reader for the Blind
+Grand Prize Winner — Palestine Science & Technology Fair
+
+Machine Learning application that recognizes banknotes and provides voice feedback for visually impaired users.
 
 ---
 
 ### 🎓 Educational Platform
 
-Currently developing a Moodle-inspired educational platform using ASP.NET Core and SQL Server.
+Currently developing a complete university learning platform using ASP.NET Core.
+
+Features include:
+
+- Authentication
+- Course Management
+- Exams
+- Student Dashboard
+- Instructor Dashboard
+- Admin Panel
 
 ---
 
-# 💼 What I Can Help With
+### 📊 Data Analytics Portfolio
 
-✔ Data Cleaning & Preprocessing
+Projects include:
 
-✔ Exploratory Data Analysis (EDA)
+- World Happiness Report
+- Hotel Booking Analysis
+- COVID-19 Analysis
+- Tourism Data Analysis
 
-✔ Interactive Power BI Dashboards
+Using:
 
-✔ Business Intelligence Reporting
-
-✔ SQL Database Design & Management
-
-✔ ASP.NET Core Web Applications
-
-✔ Machine Learning Projects
-
-✔ Report Builder Reports
-
-✔ Data Visualization
-
-✔ AI-based Applications
-
----
-
-# 🌱 Currently Learning
-
-- Generative AI
-
-- Large Language Models (LLMs)
-
-- Advanced Machine Learning
-
-- Cloud Technologies
-
-- Data Engineering
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,bootstrap"/>
-
-</p>
-
-### Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
-</p>
-
-- ASP.NET Core
+- Python
 - Pandas
 - NumPy
 - Matplotlib
+- Power BI
 
-### Databases
+---
+
+# 🛠 Tech Stack
+
+### Programming
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css"/>
 
 </p>
 
-- Microsoft SQL Server
-- Database Design
-- SSMS
-- Report Builder
+### Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap,nodejs"/>
+
+</p>
+
+### Data & AI
+
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- SQL Server
+- Machine Learning
+- Data Cleaning
+- Feature Engineering
 
 ### Tools
 
@@ -166,10 +129,6 @@ Currently developing a Moodle-inspired educational platform using ASP.NET Core a
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
 
 </p>
-
-- Power BI
-- Excel
-- Jupyter Notebook
 
 ---
 
@@ -205,42 +164,29 @@ Currently developing a Moodle-inspired educational platform using ASP.NET Core a
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amal-AbuElba88&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 🎯 My Mission
-
-> **Helping organizations transform raw data into meaningful insights and intelligent digital solutions that improve decision-making, efficiency, and business performance.**
+- Advanced Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- AI Agents
+- Cloud Computing
+- MLOps
 
 ---
 
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
-📧 **Email**
+If you're looking for someone who can combine **Data Analytics, Artificial Intelligence, and Software Development** to build practical, scalable solutions, I'd love to connect.
 
-**aabuolba@smail.ucas.edu.ps**
+📧 **Email:** aabuolba@smail.ucas.edu.ps
 
-🌍 **Location**
+💼 **LinkedIn:** https://www.linkedin.com/in/amal-a-abu-elba/
 
-Gaza, Palestine
+⭐ Don't forget to check out my repositories!
 
-💼 **LinkedIn**
+<div align="center">
 
-(https://www.linkedin.com/in/amal-a-abu-elba/)
+### ⭐ Thanks for visiting my profile!
 
----
-
-<p align="center">
-
-⭐ If you like my projects, consider giving them a star!
-
-I'm always open to collaborating on Data Analytics, AI, and Software Development projects.
-
-</p>
+</div>
