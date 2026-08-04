@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Turning+Data+into+Actionable+Insights;Building+AI-Powered+Solutions;Creating+Interactive+Dashboards;Developing+Scalable+Web+Applications" />
 
 <p>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/amal-a-abu-elba/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
