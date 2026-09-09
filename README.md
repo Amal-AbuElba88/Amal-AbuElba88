@@ -183,6 +183,8 @@ If you're looking for someone who can combine **Data Analytics, Artificial Intel
 
 💼 **LinkedIn:** https://www.linkedin.com/in/amal-a-abu-elba/
 
+**Portfolio:** https://amal-abu-elba-portfolio.ucas700.chatgpt.site/
+
 ⭐ Don't forget to check out my repositories!
 
 <div align="center">
